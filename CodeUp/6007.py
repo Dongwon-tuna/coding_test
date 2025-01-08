@@ -1,0 +1,1 @@
+print("\"C:\Download\\\'hello'.py\"")#\출력하려면 \\를 앞에 붙여줘야 함
